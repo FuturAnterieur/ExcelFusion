@@ -24,10 +24,10 @@ to enable them or not.
 
 ## How to use
 
-I wrote a comprehensive manual in French for this thing back when I made it. I haven't bothered translating 
-it to English yet (it would take quite some time). The code contains many comments in English, at least.
+I wrote a comprehensive manual in French for this thing back when I made it, and I've begun translating it to English.
+The code contains many comments in English, at least.
 
-For now, the French manual is available on Google Drive [here](https://drive.google.com/drive/folders/1vXo_eLz3sMelV-H9FsCzccx3a_n6YPH_?usp=sharing).
+For now, the French manual is available on Google Drive [here](https://drive.google.com/drive/folders/1vXo_eLz3sMelV-H9FsCzccx3a_n6YPH_?usp=sharing). The work-in-progress translation is also on Google Drive, at [this address](https://drive.google.com/drive/folders/1dyQqC7uH0Fs_v8UHeOumT2PXQnq31jBS?usp=sharing).
 
 What you should know is that prior to running the macros, some macro library references will have to be enabled in Excel.
 They should already be enabled in the demo workbook.
